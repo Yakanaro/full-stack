@@ -1,2 +1,4 @@
 .idea
 partials_c/*.php
+.DS_Store
+/.DS_Store
